@@ -5,7 +5,9 @@ title: Education
 
 ## [Colgate Univerisity](https://www.colgate.edu)
 2021 - 2025
+
 BA, Major in Economics
+
 GPA: 3.51
 
 ### Relevant Courses
@@ -23,6 +25,7 @@ GPA: 3.51
 
 ## [International School of Hyderabad](https://www.ishyd.org)
 2017 - 2021
+
 International Baccalaureate Diploma Programme
 
 ### Relevant Courses
