@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Aryan Kanumuri. I have the following qualities:
+My name is Aryan Kanumuri, I am a part of the class of 2025 at Colgate University studying Economics and Computer Science. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My core competencies include data analysis, data collection, and scientific writing, which I have developed through various academic and professional projects.
 
-What else do you need?
+I love soccer, working out, cooking, and outdoors activities!
 
-### My story
+Skills:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Microsoft Excel 
+- Microsoft Powerpoint
+- Microsoft Word
+- Scientific Writing
+- Data Collection 
+- Market Research 
+- Data Analysis
+- Python
+- C++
+
