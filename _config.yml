@@ -22,7 +22,7 @@ author: Aryan Kanumuri
 navbar-links:
   About Me: "aboutme"
   Experiences: "Experiences"
-  Hobbies: 
+  Education: "Education"
 
 ################
 # --- Logo --- #
@@ -49,7 +49,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "aryankanumuri@gmail.com"
-  linkedin: AryanKanumuri
+  linkedin: aryan-kanumuri-b8777a224
   
 #  medium: yourname
 #  reddit: yourname
